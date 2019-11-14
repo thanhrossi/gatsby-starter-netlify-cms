@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a consciencez
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Thanh Tran
+image: /img/apple-touch-icon.png
+heading: Test
+subheading: FE dev
 mainpitch:
   title: Why Kaldi
   description: >
